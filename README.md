@@ -1,1 +1,1 @@
-# APE
+# APE - Algoritmos e Programação Estruturada
